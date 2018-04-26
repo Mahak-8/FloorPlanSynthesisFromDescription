@@ -1,0 +1,7 @@
+There are 4 rooms in the layout. The room in top left corner has a sink and a dining table with 4 chairs. The room in bottom left corner is a bedroom with a table,  a bed and a sofa.  The top right corner room has a two diffferent kind of sofa and a table.  The bottom right room is a bathroom with a sink and a tub. 
+
+In this layout, on the top right side we have a rectangular drawing room which has 2 sofa and a center table. There are 4 doors. The lower right door connects to a bathroom with wash basin and a bath tub. The lower left door opens into a bed room which has a sofa, bed and table on the left side. The left door of the drawing room opens into kitchen which has sink and dining set. There is a door on the left wall of the kitchen. There is also a door on the top wall of the drawing room.
+
+There are 2 rooms, 1 kitchen and 1 bathroom in the layout. The main gate opens into the kitchen. The kitchen has a sink and a dining table. It opens into a large hall with a large sofa, a small sofa and a table. It's one door opens into the bedroom consisting of a bed, a table and a sofa. The hall also has a door to the bathroom with one bathrub and a western toilet pot.
+
+The room on right top has sofa and table and entance from outside, from another room on rightside, bottom right side and bottom left side. The room at right bottom has a sink and bathtub. The room on left bottom side has a chair,table and window. The room on the left side has sink on top and dinning table at bottom.

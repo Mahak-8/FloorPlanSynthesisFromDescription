@@ -1,0 +1,7 @@
+The house has three rooms.
+
+In the upper right corner there is open space which has a door in its lower bottom which open to a smaller room which has a sofa set in it.From the smaller room there is a door in the left which connects the smaller room to the main bedroom.Main bedroom has a set of bed, dining table and sink in it. It connects to the bathroom by the door present in the upper front.
+
+The bathroom is in the top-left side, bedroom in the bottom left side and the main hall in the bottom right side.The main door opens in the main hall. The main hall consists of a set of sofas.
+
+There are three rooms in a flat of two , one bathroom , a dining and a living room. Bathroom has a big bath tub and a toilet. The entry to the house is through drawing room .

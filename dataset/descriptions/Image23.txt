@@ -1,0 +1,14 @@
+This image contain various rooms.On the top left corner there is bathroom having a bathtub and a basin.This room is connected to an empty area and to a living room situated in bottom left corner having a sofa, a round table having four seats, a square table and two couches.This room is connected to bed room having two beds and one square table situated between both beds.Bedroom is then connected to a room having a bed and a dining table and a sink.
+
+On top-left corner lies a bathroom.
+The bathroom consists of bathtub and sink.
+The bathroom then connects through the right door to exit.
+The bathroom then connects thorught the bottom door which leads to hall.
+The hall consists of a sofa, a dining table, a table and 2 beds.
+The hall then connects to the bottom door which leads to exit.
+The hall then connects to the right door which leads to a big bedroom.
+The bedroom consists of 2 beds and a table.
+The bedroom then connects to the left door which leads to another room.
+This room consists of dining table, a sink and a bed.
+
+The apartment has one bathroom, one drawing room, one bedroom and one one kitchen. The bathroom is in the upper left corner, and contains a bath tub and a washing basin. The drawing room is in the bottom left corner, and contains 3 sofas, one round table, and a square table. The bedroom is to the left of the drawing room, and contains two beds and a table. The kitchen is along the left edge, and contains a kitchen table, a sink and a bed.

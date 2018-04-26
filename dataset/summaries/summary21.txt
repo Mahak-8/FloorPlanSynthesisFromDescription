@@ -1,0 +1,6 @@
+On the top left corner there is bedroom having a bed and a couch.
+Inside the bedroom, there is a bed and a table. 
+The bedroom connects to a hall through the door on the right. 
+The hall occupies all the right corner of the building. 
+The apartment has one bedroom, one drawing room and a kitchen.
+The kitchen is situated in the bottom right corner and contains a table and a sink.

@@ -1,0 +1,7 @@
+The layout has a total of 4 rooms.The room on top left corner is a bathroom with a basin and a bath tub.  The room adjacent to bathroom is a kitchen having a dining table and a sink. The layout has an empty room adjacent to the bathroom and kitchen.  The last room is adjacent to the empty room and the kitcen.
+
+On the lower side, we have a drawing room which has a sofa set and a center table.The drawing room has 2 doors. The top left door connects to the kitchen which has a dining set and a sink.The door on the top of the kitchen connects to the bathroom which has a bathtub and wash basin. The right door of the drawing room is connected to an empty room.
+
+This layout consists of 2 rooms, 1 kitchen and 1 bathroom.
+
+Layout with 3 rooms. The first located at bottom with a set of sofa,chairs and a table, with two doors one opening outside and another to second room.Second with a dining table and a sink and an entrance from first room and other to third, located in the left half. .The third with a sink and bathtub at left top corner.  

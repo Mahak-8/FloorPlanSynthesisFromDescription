@@ -1,0 +1,11 @@
+#Information Extraction
+
+#Python version - 3.5.2
+
+# Modules can be installed using commands:
+$ sudo pip install nltk
+$ sudo pip install matplotlib
+$ sudo pip install networkx
+
+#Command to execute:
+$ python extraction.py

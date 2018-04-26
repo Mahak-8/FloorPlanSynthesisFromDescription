@@ -1,0 +1,9 @@
+The floor has a living room at the upper end, a bathroom at the lower left and a bedroom at the lower right end. The living room has a sink and a dining table on the left side and two sofas and a table on the right side. The bathroom has a sofa, toilet seat and a bath tub. The bedroom contains a bed and a table. The doors of the bathroom and bedroom opens in the living room, while The door of the living room opens outside.
+
+Half of the space of the image is covered with drawing room on the north.It is quite spacious and has 2 sofas which can accomodate 2 people each and dining table for four people. The sink is used to wash hands.There is a washroom to the bottom left which has a bath tub and a toilet seat. There is a small bedroom on the bottom right which contains a table and bed. The bedroom and the washroom are connected through the drawing room.The main door of the house opens in the drawing room.
+
+The apartment has a hall, a room and a bathroom. The enterance connects to the hall which has a sink, a dining table, two sofas and a centre table. The right side of the hall connects to the bedroom which has a table and a bed. The left side of the hall connects to bathroom which has  a bathtub, a wash basin and a chair.
+
+The drawing room has the similar aggrangement like the previous image, but the size is more than three time the other two rooms. The
+the door from the drawing room leads to bathroom where one bathtub, one wash basin, one sofa chair, and one wash basin. and the other 
+door from the drawing room leads to the bedroom where the table is accompanied with the bed.

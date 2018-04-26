@@ -1,0 +1,10 @@
+# Text Summarization 
+
+# Python version - 3.5.2
+
+# No additional module is required to be installed
+
+# Parameter is reduction_ratio which can be modified in main.py
+
+# Command to run:
+$ python main.py

@@ -1,0 +1,5 @@
+There are three door inside the house which joins drawing room and a sitting room, bed room and the sitting room and washroom and the sitting room.
+
+The apartment has enterance connected to the hall. The left of the hall connects to bedroom  which has a bed and a chair. The right of the hall connects to the bathroom  which has a bathtub and a wash basin. 
+
+The floor contains a living room, kitchen, bathroom and a bedroom. The Kitchen lies on the center right of the floor and contains a dining table and a sink. The living room is on the upper side and has a sofa and table on the left side as well as on the right side. The bedroom is on the lower left side and has a bed and a sofa. The bathroom is on the lower right side and  has a bathtub and a toilet seat.

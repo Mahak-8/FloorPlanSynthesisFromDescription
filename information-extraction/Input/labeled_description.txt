@@ -1,0 +1,17 @@
+lobby:As we enter the house, there is a lobby and it is square shaped with 150 feet.
+lobby:Two chair are there in lobby and there is door on the second wall. 
+relation:The door of lobby leads to hall. 
+hall:Hall is 4 sided with dimensions 250x200 feet and has doors on second and third walls.
+hall:It has a chair and sofa.
+relation:First door of hall leads to bedroom. 
+bedroom:Bedroom is 4 sided with dimensions 200x100 feet and has a door on first wall.
+bedroom:It has a bed in it. 
+relation:Door of bedroom leads to bathroom. 
+bathroom:Bathroom is rectangular with dimensions 100x100 feet. 
+bathroom:It has a tub inside it. 
+relation:Second door of hall leads to kitchen. 
+kitchen:Kitchen is 4 sided with dimensions 100x200 feet with a door on second wall.
+kitchen:There is a sink and basin inside kitchen. 
+relation:Door of kitchen leads to dining area. 
+dining:Dining area has 4 walls with dimensions 150x100 feet. 
+dining:There is a dining table placed in center.

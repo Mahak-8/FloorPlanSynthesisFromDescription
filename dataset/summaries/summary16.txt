@@ -1,0 +1,6 @@
+There are 5 rooms in this image. The top left room is living room with 2 sofas with a table in between. The top-middle room is a kitchen with dining table and sink and cooking table. The top right room is a bathroom with 2 bath-tub's and 2 sink's.  The bottom left room is multi-purpose room with a bed, a round table, a dining table, a sofa and a table. The bottom right room is 4 beds, 2 sofas with 3 tables in between. It is connected to kitchen, and bedroom.
+
+There is a door to living room on the bottom wall of the kitchen.
+There is a door to the living room in the bottom wall of the bathroom.
+
+On the bottom middle a l shaped room which extends right consists of a rectangular table, a circular table, a bed, sofa, and a table.

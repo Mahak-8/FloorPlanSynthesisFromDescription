@@ -1,0 +1,4 @@
+The layout has 3 rooms.The room on extreme left is a bed room having a double bed and two tables.
+
+In this layout, the room on the west is a bedroom which has a bed and two tables. There is a door on the left side which connects to the drawing room. It is an L shaped room. On the top side we have a table and a sink. On the bottom, there is a sofa and table. There are three doors in this room. The northern door connects to an empty room. The eastern door connects to a bathroom which has a bathtub.
+

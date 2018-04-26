@@ -1,0 +1,7 @@
+On the top-left corner of the building, there is a bathroom consisting of a bathtub.
+The Bathroom then connects to the hall through the door on the right.
+The hall consists of a sofa and a table along with a door on the bottom which leads to exit.
+The hall also consists of a sink and dining table which located at the bottom inside the hall.
+The hall then connects to bedroom through the right to the bedroom.
+The bedroom consists of a bed and 2 tables.
+The apartment has one bedroom, one drawing room with an attached kitchen and a bathroom. The bed room is in the left side, and contains a bed and two tables.The drawing room extends from upper right corner to bottom, and contains one sofa and a table.

@@ -1,0 +1,5 @@
+There are 3 rooms in this image. The top left room is bedroom with single bed.The top right room is multi-purpose room with a single-sofa, a double-sofa, a table, a dining table and a sink. The bottom right room is a bathroom with a bath-tub and a sink. 
+
+It is connected to both bedroom and the bathroom
+
+There is a large L-shaped living room on the right side of the bedroom. There is a door on the right wall of the living room.There is a door towards the bathroom on the bottom wall of the living room.

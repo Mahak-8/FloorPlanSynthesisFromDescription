@@ -1,0 +1,6 @@
+There are 3 rooms in this image.The top left room looks like a multi-purpose room with 2 beds with a table in between, 3 individual sofa's, and a double sofa. The top right room is kitchen with a dining table and cooking table. The bottom right room is bathroom with a bath-tub.
+The kitchen is also connected to the bathroom.
+
+There is one door on the south wall and another door on the north wall slightly towards east. There is a door on left wall of the bathroom.
+
+commom room is further connected to a empty room on bottom left.

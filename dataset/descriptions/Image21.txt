@@ -1,0 +1,11 @@
+On the top left corner there is bedroom having a bed and a couch.This room is connected to living room having two sofas arranged perpendicularly and a square table facing them.Living room is connected to kitchen having a dining table and a sink which is in the bottom right corner of the image.
+
+There is a bedroom at the top-left corner of the building and occupies 1/4th of the space. 
+Inside the bedroom, there is a bed and a table. 
+The bedroom connects to a hall through the door on the right. 
+The hall occupies all the right corner of the building. 
+It contains two sofas, a table and also a kitchen inside it. 
+The kitchen is situated at the bottom-right corner of the hall.
+Inside the dining room, there is  a sink and a dining table.
+
+The apartment has one bedroom, one drawing room and a kitchen. The bedroom is in the upper left corner and contains a bed and a sofa. The drawing room extends from upper right corner to bottom, and contains two sofas and a table. The kitchen is situated in the bottom right corner and contains a table and a sink.

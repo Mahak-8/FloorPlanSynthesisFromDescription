@@ -1,0 +1,1 @@
+bedroom,bathroom,kitchen,hall,dining,drawing,temple,library,entrance,entry,lobby

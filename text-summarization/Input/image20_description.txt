@@ -1,0 +1,9 @@
+The floor contains a living room, kitchen and a bedroom with attached bathroom. The kitchen lies at the lower right corner containing two sinks and a dining table. The living room contains four sofas and a round table and lies at the lower left of the floor. The bedroom lies at the upper left and the bathroom lies on the upper right. Bedroom contains a bed, table and a sofa. The bathroom has a bathtub and a toilet seat.
+
+The main door opens in the main hall which ccontains a round table and four seats.The hall is connected to the dining room which contains a dining table and sink.The hall is connected to the bedroom in the north containing a bed, table and sofa.The washroom can be reached through bedroom which contains a bath tub and a toilet seat.
+
+The entrance of the apartment open in the hall. It has a round table with the capacity of 4 and 4 chairs. The right of the hall opens in the dining hall with a dining table and two sinks. The other side of the hall opens to the bedroom which has a bed, a chair and a table. The bedroom has a interconnected bathroom with a bathtub and a wash basin.
+
+The door leads from outside to the drawing room. The drawing room has three sofa chairs and one circular table in the centre. One door takes to the kitchen, where the dining table is accompanied with two wash basins. Another door from the drawing room leads to the 
+bedroom where one sofa chair is accompanied with a bed and a table. The door from this room leads to bathroom where we have a basin along with a bathtub. 
+

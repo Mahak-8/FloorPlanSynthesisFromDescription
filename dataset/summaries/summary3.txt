@@ -1,0 +1,3 @@
+The house consists of four rooms.
+
+The house has four partitions, a main hall in top left corner, a bedroom in the bottom left corner, bathroom in the bottom right corner, and a kitchen in top right corner.The main door of the house opens in the main hall. The main hall consists of a sofa and a round table with four chairs. There are two doors opening from the main hall, one into the bedroom and the second door into the kitchen. The bedroom has a single bed, a table and a sofa. The kitchen has a sink and a dining table with four chairs. A door from the kitchen opens into the bathroom. The bathroom has a bathtub and a basin.
