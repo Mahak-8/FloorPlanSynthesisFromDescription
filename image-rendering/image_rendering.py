@@ -141,7 +141,7 @@ def generate_room(previous_room, door_number):
 				match = re.search(regex, prev_token)
 				if match:
 					num = int(match.group(0))
-				for a,b in num_dict:
+				for a,b in room.furnitures:
 					if prev_token == a:
 						num = b
 						break
